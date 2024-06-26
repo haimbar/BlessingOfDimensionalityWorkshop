@@ -1,0 +1,11 @@
+High Dimension Low Sample Size Asymptotics
+
+J. S. Marron
+University of North Carolina
+
+The asymptotics of growing sample size are the foundation of classical mathematical statistics.  But modern big data challenges suggest consideration of growing dimension as well.  A perhaps extreme case of this has fixed sample size.  That context is seen to have some counter-intuitive mathematical structure.  These non-standard ways of thinking about data are seen to be the key to understanding important aspects of real genomic data.  This is an example of how it is both essential, and also beautiful, for statistical intuition to be guided by mathematics.
+Relevant Reference:
+
+Aoshima, M., Shen, D., Shen, H., Yata, K., Zhou, Y. H., & Marron, J. S. (2018). A survey of high dimension low sample size asymptotics. Australian & New Zealand journal of statistics, 60(1), 4-19.
+
+
