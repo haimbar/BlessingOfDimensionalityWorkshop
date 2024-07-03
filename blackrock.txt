@@ -1,0 +1,28 @@
+Leveraging Similarity Learning in Finance
+
+Dhagash Mehta, Dhruv Desai, Joshua Roasler
+BlackRock
+
+Abstract: The concept of similarity is crucial in finance, aiding in pattern recognition and decision-making. This discussion highlights its relevance and the limitations of unsupervised clustering, which lacks a definitive evaluative framework, leading to potential misalignments in downstream tasks.
+We introduce distance metric learning, which overcomes these limitations by learning an optimal distance function, improving the accuracy of similarity assessments. Supervised similarity, especially through tree-based models, offers a more targeted approach, utilizing proximity measures for enhanced financial modeling.
+Proximity opens doors to various applications, including similarity assessment, prototype identification, critique analysis, missing value imputation, and anomaly detection. These are vital for data integrity and model refinement.
+Finally, we explore using random forest in an unsupervised context for effective imputation, refined similarity, and improved anomaly detection, showcasing its adaptability in financial data analysis.
+Join us to uncover the strategic use of similarity measures, from unsupervised clustering to supervised proximity, and their impact on financial analysis.
+
+Suggested reading: 
+
+- Supervised similarity learning for corporate bonds using random forest proximities. Jerinsh Jeyapaulraj, Dhruv Desai, Dhagash Mehta, Peter Chu, Stefano Pasquali, Philip Sommer. Published in Proceedings of the Third ACM International Conference on AI in Finance, 411-419. https://arxiv.org/pdf/2207.04368
+
+- Learning mutual fund categorization using natural language processing. Dimitrios Vamvourellis, Mate Toth, Dhruv Desai, Dhagash Mehta, Stefano Pasquali. Published in Proceedings of the Third ACM International Conference on AI in Finance, 87-95. https://arxiv.org/pdf/2207.04959
+
+- Quantifying Outlierness of Funds from their Categories using Supervised Similarity. Dhruv Desai, Ashmita Dhiman (RQA), Tushar Sharma (MASS), Deepika Sharma (MASS), Dhagash Mehta and Stefano Pasquali.  https://arxiv.org/abs/2308.06882
+
+- Company Similarity using Large Language Models. Dimitrios Vamvourellis, Mate Toth (APG), Snigdha Bhagat, Dhruv Desai, Dhagash Mehta, Stefano Pasquali. https://arxiv.org/abs/2308.08031
+
+- Learning Embedded Representation of the Stock Correlation Matrix using Graph Machine Learning. Bhaskarjit Sharma, Nayana Nair, Riya Jain, Dhagash Mehta, Stefano Pasquali. https://arxiv.org/abs/2207.07183
+
+- How trading analytics and data science can improve investment outcomes. Ananth Madhavan, Stefano Pasquali, Philip Sommer. Published in Journal of Investing. December 2022, 32 (1) 104-114. https://www.pm-research.com/content/iijinvest/32/1/104
+
+- Towards enhanced local explanability of random forests: a proximity based approach
+https://arxiv.org/abs/2310.12428
+
