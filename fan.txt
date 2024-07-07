@@ -1,0 +1,14 @@
+Title: Gradient flows for empirical Bayes in high-dimensional linear models
+
+Zhou Fan
+Yale University
+
+Abstract: Empirical Bayes provides a powerful approach to learning and adapting to latent structure in data. Theory and algorithms for empirical Bayes have a rich literature for sequence models, but are less understood in settings where latent variables and data interact through more complex designs.
+
+In this work, we study empirical Bayes estimation of an i.i.d. prior in Bayesian linear models, via the nonparametric maximum likelihood estimator (NPMLE). We introduce and study a system of gradient flow equations for optimizing the marginal log-likelihood, jointly over the prior and posterior measures in its Gibbs variational representation using a smoothed reparametrization of the regression coefficients. A diffusion-based implementation yields a Langevin dynamics MCEM algorithm, where the prior law evolves continuously over time to optimize a sequence-model log-likelihood defined by the coordinates of the current Langevin iterate.
+
+We show consistency of the NPMLE under mild conditions, including settings of random sub-Gaussian designs under high-dimensional asymptotics. In high noise, we prove a uniform log-Sobolev inequality for the mixing of Langevin dynamics, for possibly misspecified priors and non-log-concave posteriors. We then establish polynomial-time convergence of the joint gradient flow to a near-NPMLE if the marginal negative log-likelihood is convex in a sub-level set of the initialization.
+
+This is joint work with Leying Guan, Yandi Shen, and Yihong Wu.
+
+
