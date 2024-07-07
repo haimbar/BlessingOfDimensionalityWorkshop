@@ -1,0 +1,21 @@
+The middle-scale asymptotics of Wishart matrices
+
+Martin T. Wells
+Cornell University
+
+We study the behavior of a real $p$-dimensional Wishart random matrix
+with $n$ degrees of freedom when $n,p \rightarrow \infty$ but $p/n
+\rightarrow 0$. We establish the existence of phase transitions when
+$p$ grows at the order $n^{(K+1)/(K+3)}$ for every positive integer
+$K$, and derive expressions for approximating densities between every
+two phase transitions.  To do this, we make use of a novel tool we
+call the G-conjugate of an absolutely continuous distribution, which
+is obtained from the Fourier transform of the square root of its
+density.  I will also discuss applications of the results to
+high-dimensional inference, asymptotic equivalence of covariance
+experiments, and random graph theory.
+
+This is joint work with Didier Ch\'etelat.
+
+Didier Chételat. Martin T. Wells. "The middle-scale asymptotics of Wishart matrices." Ann. Statist. 47 (5) 2639 - 2670, October 2019. https://doi.org/10.1214/18-AOS1760 
+https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-5/The-middle-scale-asymptotics-of-Wishart-matrices/10.1214/18-AOS1760.full
